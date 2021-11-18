@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TutorialWordExel</string>
+    <string name="microsoft_word">Microsoft Word</string>
+    <string name="microsoft_excel">Microsoft Excel</string>
+</resources>
